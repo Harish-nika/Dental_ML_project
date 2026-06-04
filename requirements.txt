@@ -1,0 +1,6 @@
+inference-sdk
+inference
+supervision
+opencv-python-headless
+python-dotenv
+requests
